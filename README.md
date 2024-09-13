@@ -1,2 +1,8 @@
-# Solidity
-Repository created for programming and development in the Solidity language
+## Repository created for programming and development in the Solidity language
+![Solidity](https://img.shields.io/badge/Solidity-003545?style=for-the-badge&logo=solidity&logoColor=white)
+
+This repository was built for studies of the Solidity language, developed for the elaboration of smart contracts, also widely used by blockchain developers and especially in cryptoassets and cryptocurrencies, the main one being Etherium.
+
+![](https://private-user-images.githubusercontent.com/87618859/367133207-585816b4-7bad-4532-a5df-320632964c01.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYxOTY1NzYsIm5iZiI6MTcyNjE5NjI3NiwicGF0aCI6Ii84NzYxODg1OS8zNjcxMzMyMDctNTg1ODE2YjQtN2JhZC00NTMyLWE1ZGYtMzIwNjMyOTY0YzAxLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTEzVDAyNTc1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFkN2QyYTg0NGE4MmM0YjFmYzI2MmRkMjljZmJjMWQyYzUzZmRmMmNlZTI4MTExOTk2MTcxZmNiNTc5NGNmOTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5dT5ozqhG_eevemdiwtfqITHx5isTCv4-n0_LVL8a7U)
+
+Este repositório foi construido para estudos da linguagem Solidity, desenvolvida para elaboração de contratos inteligentes, também muito utilizada por desenvolvedores da blockchain e principalmente em criptoativos e criptomoedas, sendo a principal delas a Etherium.
